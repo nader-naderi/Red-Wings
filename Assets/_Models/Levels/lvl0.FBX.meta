@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: f36f89d115a6f674ebb4b40afe0d220b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: -- L ankle
+    100002: -- L ankle 1
+    100004: -- L bicep twist
+    100006: -- L bicep twist 1
+    100008: -- L butt
+    100010: -- L butt 1
+    100012: -- L Elbow
+    100014: -- L Elbow 1
+    100016: -- L Forearm twist
+    100018: -- L Knee
+    100020: -- L Knee 1
+    100022: -- L knuckle
+    100024: -- L knuckle 1
+    100026: -- L Shoulder inside
+    100028: -- L Shoulder inside 1
+    100030: -- L shoulder outside
+    100032: -- L shoulder outside 1
+    100034: -- L wrist
+    100036: -- L wrist 1
+    100038: -- Neck smooth
+    100040: -- Neck smooth 1
+    100042: -- R Ankle
+    100044: -- R Ankle 1
+    100046: -- R bicep twist
+    100048: -- R bicep twist 1
+    100050: -- R Butt
+    100052: -- R Butt 1
+    100054: -- R Elbow
+    100056: -- R Elbow 1
+    100058: -- R forearm twist
+    100060: -- R Knee
+    100062: -- R knuckle
+    100064: -- R knuckle 1
+    100066: -- R Shoulder inside
+    100068: -- R Shoulder inside 1
+    100070: -- R shoulder outside
+    100072: -- R shoulder outside 1
+    100074: -- R wrist
+    100076: -- R wrist 1
+    100078: AbandonedAbramsM1A1
+    100080: AbandonedAbramsM1A1 1
+    100082: AbandonedAbramsM1A1 2
+    100084: AbandonedAbramsM1A1 3
+    100086: AbramsM1A1
+    100088: Barrel
+    100090: Barrel 1
+    100092: Barrel 2
+    100094: Barrel 3
+    100096: Barrel 4
+    100098: Barrel 5
+    100100: Barrel 6
+    100102: Barrel 7
+    100104: Barrels
+    100106: Barrels 1
+    100108: Bip01
+    100110: Bip01 Head
+    100112: Bip01 L Calf
+    100114: Bip01 L Clavicle
+    100116: Bip01 L Finger0
+    100118: Bip01 L Finger01
+    100120: Bip01 L Finger1
+    100122: Bip01 L Finger11
+    100124: Bip01 L Foot
+    100126: Bip01 L Forearm
+    100128: Bip01 L Hand
+    100130: Bip01 L Thigh
+    100132: Bip01 L Toe0
+    100134: Bip01 L UpperArm
+    100136: Bip01 Neck
+    100138: Bip01 Pelvis
+    100140: Bip01 R Calf
+    100142: Bip01 R Clavicle
+    100144: Bip01 R Finger0
+    100146: Bip01 R Finger01
+    100148: Bip01 R Finger1
+    100150: Bip01 R Finger11
+    100152: Bip01 R Foot
+    100154: Bip01 R Forearm
+    100156: Bip01 R Hand
+    100158: Bip01 R Thigh
+    100160: Bip01 R Toe0
+    100162: Bip01 R UpperArm
+    100164: Bip01 Spine
+    100166: Bip01 Spine1
+    100168: Bip01 Spine2
+    100170: Bip01 Spine3
+    100172: Biped
+    100174: Biped Head
+    100176: Biped L Calf
+    100178: Biped L Clavicle
+    100180: Biped L Finger0
+    100182: Biped L Finger01
+    100184: Biped L Finger1
+    100186: Biped L Finger11
+    100188: Biped L Foot
+    100190: Biped L Forearm
+    100192: Biped L Hand
+    100194: Biped L Thigh
+    100196: Biped L Toe0
+    100198: Biped L UpperArm
+    100200: Biped Neck
+    100202: Biped Pelvis
+    100204: Biped R Calf
+    100206: Biped R Clavicle
+    100208: Biped R Finger0
+    100210: Biped R Finger01
+    100212: Biped R Finger1
+    100214: Biped R Finger11
+    100216: Biped R Foot
+    100218: Biped R Forearm
+    100220: Biped R Hand
+    100222: Biped R Thigh
+    100224: Biped R Toe0
+    100226: Biped R UpperArm
+    100228: Biped Spine
+    100230: Biped Spine1
+    100232: Biped Spine2
+    100234: Biped Spine3
+    100236: Body
+    100238: Body 1
+    100240: Body 10
+    100242: Body 2
+    100244: Body 3
+    100246: Body 4
+    100248: Body 5
+    100250: Body 6
+    100252: Body 7
+    100254: Body 8
+    100256: Body 9
+    100258: Bone01
+    100260: Bone01 1
+    100262: Bunker
+    100264: Bunker 1
+    100266: BunkerBullet
+    100268: BunkerSamSiteExplosion
+    100270: Convoy
+    100272: Cross
+    100274: DefaultTarget
+    100276: DoorBottom
+    100278: DoorTop
+    100280: Enemy6
+    100282: Fader
+    100284: Glass
+    100286: GuidedMissile1
+    100288: GuidedMissile2
+    100290: GuidedMissile3
+    100292: GuidedMissile4
+    100294: GuidedMissile5
+    100296: GuidedMissile6
+    100298: GuidedMissile7
+    100300: GuidedMissile8
+    100302: Gun
+    100304: Gun 1
+    100306: Gun 2
+    100308: Gun 3
+    100310: Gun 4
+    100312: Gun 5
+    100314: Gun 6
+    100316: Head
+    100318: Head 1
+    100320: Head 10
+    100322: Head 2
+    100324: Head 3
+    100326: Head 4
+    100328: Head 5
+    100330: Head 6
+    100332: Head 7
+    100334: Head 8
+    100336: Head 9
+    100338: Headquarters
+    100340: HealthBar
+    100342: HelicopterBullet
+    100344: HelicopterExplosion
+    100346: HelicopterHomingMissile
+    100348: HelicopterMissile
+    100350: HomingMissileCache
+    100352: Hostage
+    100354: Hostage 1
+    100356: Humvee1
+    100358: Humvee2
+    100360: HumveeBullet
+    100362: HumveeExplosion
+    100364: HumveeMissile
+    100366: InnerCircle
+    100368: LeftHomingMissileLauncher
+    100370: LeftMachineGun
+    100372: LeftMissileLauncher
+    100374: Line03
+    100376: //RootNode
+    100378: MainCamera
+    100380: MainRotor
+    100382: MI24
+    100384: MissileCache
+    100386: MissileExplosion
+    100388: Mission01
+    100390: Object04
+    100392: OutherCircle
+    100394: Patch01
+    100396: Patch01 1
+    100398: Patch01 2
+    100400: Patch01 3
+    100402: Patch01 4
+    100404: Patch01 5
+    100406: Patch01 6
+    100408: Patch01 7
+    100410: Patch01 8
+    100412: PowerUp
+    100414: PowerUp 1
+    100416: PowerUp 2
+    100418: RightHomingMissileLauncher
+    100420: RightMachineGun
+    100422: RightMissileLauncher
+    100424: SamSite
+    100426: smdimport
+    100428: Smoke
+    100430: Smoke 1
+    100432: Smoke 2
+    100434: Soldier
+    100436: Soldier 1
+    100438: SoldierBullet
+    100440: SoldierExplosion
+    100442: SunLight
+    100444: TailRotor
+    100446: TankBullet
+    100448: TankExplosion
+    100450: Target
+    100452: Waypoint
+    100454: WheelFront
+    100456: WheelLeft
+    100458: WheelRight
+    400000: -- L ankle
+    400002: -- L ankle 1
+    400004: -- L bicep twist
+    400006: -- L bicep twist 1
+    400008: -- L butt
+    400010: -- L butt 1
+    400012: -- L Elbow
+    400014: -- L Elbow 1
+    400016: -- L Forearm twist
+    400018: -- L Knee
+    400020: -- L Knee 1
+    400022: -- L knuckle
+    400024: -- L knuckle 1
+    400026: -- L Shoulder inside
+    400028: -- L Shoulder inside 1
+    400030: -- L shoulder outside
+    400032: -- L shoulder outside 1
+    400034: -- L wrist
+    400036: -- L wrist 1
+    400038: -- Neck smooth
+    400040: -- Neck smooth 1
+    400042: -- R Ankle
+    400044: -- R Ankle 1
+    400046: -- R bicep twist
+    400048: -- R bicep twist 1
+    400050: -- R Butt
+    400052: -- R Butt 1
+    400054: -- R Elbow
+    400056: -- R Elbow 1
+    400058: -- R forearm twist
+    400060: -- R Knee
+    400062: -- R knuckle
+    400064: -- R knuckle 1
+    400066: -- R Shoulder inside
+    400068: -- R Shoulder inside 1
+    400070: -- R shoulder outside
+    400072: -- R shoulder outside 1
+    400074: -- R wrist
+    400076: -- R wrist 1
+    400078: AbandonedAbramsM1A1
+    400080: AbandonedAbramsM1A1 1
+    400082: AbandonedAbramsM1A1 2
+    400084: AbandonedAbramsM1A1 3
+    400086: AbramsM1A1
+    400088: Barrel
+    400090: Barrel 1
+    400092: Barrel 2
+    400094: Barrel 3
+    400096: Barrel 4
+    400098: Barrel 5
+    400100: Barrel 6
+    400102: Barrel 7
+    400104: Barrels
+    400106: Barrels 1
+    400108: Bip01
+    400110: Bip01 Head
+    400112: Bip01 L Calf
+    400114: Bip01 L Clavicle
+    400116: Bip01 L Finger0
+    400118: Bip01 L Finger01
+    400120: Bip01 L Finger1
+    400122: Bip01 L Finger11
+    400124: Bip01 L Foot
+    400126: Bip01 L Forearm
+    400128: Bip01 L Hand
+    400130: Bip01 L Thigh
+    400132: Bip01 L Toe0
+    400134: Bip01 L UpperArm
+    400136: Bip01 Neck
+    400138: Bip01 Pelvis
+    400140: Bip01 R Calf
+    400142: Bip01 R Clavicle
+    400144: Bip01 R Finger0
+    400146: Bip01 R Finger01
+    400148: Bip01 R Finger1
+    400150: Bip01 R Finger11
+    400152: Bip01 R Foot
+    400154: Bip01 R Forearm
+    400156: Bip01 R Hand
+    400158: Bip01 R Thigh
+    400160: Bip01 R Toe0
+    400162: Bip01 R UpperArm
+    400164: Bip01 Spine
+    400166: Bip01 Spine1
+    400168: Bip01 Spine2
+    400170: Bip01 Spine3
+    400172: Biped
+    400174: Biped Head
+    400176: Biped L Calf
+    400178: Biped L Clavicle
+    400180: Biped L Finger0
+    400182: Biped L Finger01
+    400184: Biped L Finger1
+    400186: Biped L Finger11
+    400188: Biped L Foot
+    400190: Biped L Forearm
+    400192: Biped L Hand
+    400194: Biped L Thigh
+    400196: Biped L Toe0
+    400198: Biped L UpperArm
+    400200: Biped Neck
+    400202: Biped Pelvis
+    400204: Biped R Calf
+    400206: Biped R Clavicle
+    400208: Biped R Finger0
+    400210: Biped R Finger01
+    400212: Biped R Finger1
+    400214: Biped R Finger11
+    400216: Biped R Foot
+    400218: Biped R Forearm
+    400220: Biped R Hand
+    400222: Biped R Thigh
+    400224: Biped R Toe0
+    400226: Biped R UpperArm
+    400228: Biped Spine
+    400230: Biped Spine1
+    400232: Biped Spine2
+    400234: Biped Spine3
+    400236: Body
+    400238: Body 1
+    400240: Body 10
+    400242: Body 2
+    400244: Body 3
+    400246: Body 4
+    400248: Body 5
+    400250: Body 6
+    400252: Body 7
+    400254: Body 8
+    400256: Body 9
+    400258: Bone01
+    400260: Bone01 1
+    400262: Bunker
+    400264: Bunker 1
+    400266: BunkerBullet
+    400268: BunkerSamSiteExplosion
+    400270: Convoy
+    400272: Cross
+    400274: DefaultTarget
+    400276: DoorBottom
+    400278: DoorTop
+    400280: Enemy6
+    400282: Fader
+    400284: Glass
+    400286: GuidedMissile1
+    400288: GuidedMissile2
+    400290: GuidedMissile3
+    400292: GuidedMissile4
+    400294: GuidedMissile5
+    400296: GuidedMissile6
+    400298: GuidedMissile7
+    400300: GuidedMissile8
+    400302: Gun
+    400304: Gun 1
+    400306: Gun 2
+    400308: Gun 3
+    400310: Gun 4
+    400312: Gun 5
+    400314: Gun 6
+    400316: Head
+    400318: Head 1
+    400320: Head 10
+    400322: Head 2
+    400324: Head 3
+    400326: Head 4
+    400328: Head 5
+    400330: Head 6
+    400332: Head 7
+    400334: Head 8
+    400336: Head 9
+    400338: Headquarters
+    400340: HealthBar
+    400342: HelicopterBullet
+    400344: HelicopterExplosion
+    400346: HelicopterHomingMissile
+    400348: HelicopterMissile
+    400350: HomingMissileCache
+    400352: Hostage
+    400354: Hostage 1
+    400356: Humvee1
+    400358: Humvee2
+    400360: HumveeBullet
+    400362: HumveeExplosion
+    400364: HumveeMissile
+    400366: InnerCircle
+    400368: LeftHomingMissileLauncher
+    400370: LeftMachineGun
+    400372: LeftMissileLauncher
+    400374: Line03
+    400376: //RootNode
+    400378: MainCamera
+    400380: MainRotor
+    400382: MI24
+    400384: MissileCache
+    400386: MissileExplosion
+    400388: Mission01
+    400390: Object04
+    400392: OutherCircle
+    400394: Patch01
+    400396: Patch01 1
+    400398: Patch01 2
+    400400: Patch01 3
+    400402: Patch01 4
+    400404: Patch01 5
+    400406: Patch01 6
+    400408: Patch01 7
+    400410: Patch01 8
+    400412: PowerUp
+    400414: PowerUp 1
+    400416: PowerUp 2
+    400418: RightHomingMissileLauncher
+    400420: RightMachineGun
+    400422: RightMissileLauncher
+    400424: SamSite
+    400426: smdimport
+    400428: Smoke
+    400430: Smoke 1
+    400432: Smoke 2
+    400434: Soldier
+    400436: Soldier 1
+    400438: SoldierBullet
+    400440: SoldierExplosion
+    400442: SunLight
+    400444: TailRotor
+    400446: TankBullet
+    400448: TankExplosion
+    400450: Target
+    400452: Waypoint
+    400454: WheelFront
+    400456: WheelLeft
+    400458: WheelRight
+    2100000: AbramsM1A1
+    2100002: PatchMaterial01
+    2100004: BunkerBody
+    2100006: BunkerHead
+    2100008: Barrel
+    2100010: MI24
+    2100012: HumveeBody
+    2100014: HumveeGlass
+    2100016: HumveeTire
+    2100018: Building04Roof
+    2100020: Building04Walls
+    2100022: SamSiteBody
+    2100024: SamSiteHead
+    2100026: ak47_skin
+    2100028: head2
+    2100030: newsvip
+    2100032: CrossMaterial
+    2100034: HomingMissile
+    2100036: Missile
+    2100038: Pink
+    2100040: Green
+    2100042: M4Material
+    2100044: SoldierMaterial
+    2300000: Barrel
+    2300002: Barrel 1
+    2300004: Barrel 2
+    2300006: Barrel 3
+    2300008: Barrel 4
+    2300010: Barrel 5
+    2300012: Barrel 6
+    2300014: Barrel 7
+    2300016: Body
+    2300018: Body 1
+    2300020: Body 10
+    2300022: Body 2
+    2300024: Body 3
+    2300026: Body 4
+    2300028: Body 5
+    2300030: Body 6
+    2300032: Body 7
+    2300034: Body 8
+    2300036: Body 9
+    2300038: BunkerBullet
+    2300040: Convoy
+    2300042: DoorBottom
+    2300044: DoorTop
+    2300046: Enemy6
+    2300048: Glass
+    2300050: GuidedMissile1
+    2300052: GuidedMissile2
+    2300054: GuidedMissile3
+    2300056: GuidedMissile4
+    2300058: GuidedMissile5
+    2300060: GuidedMissile6
+    2300062: GuidedMissile7
+    2300064: GuidedMissile8
+    2300066: Head
+    2300068: Head 1
+    2300070: Head 10
+    2300072: Head 2
+    2300074: Head 3
+    2300076: Head 4
+    2300078: Head 5
+    2300080: Head 6
+    2300082: Head 7
+    2300084: Head 8
+    2300086: Head 9
+    2300088: Headquarters
+    2300090: HelicopterHomingMissile
+    2300092: HelicopterMissile
+    2300094: Hostage 1
+    2300096: HumveeBullet
+    2300098: HumveeMissile
+    2300100: MainRotor
+    2300102: Patch01
+    2300104: Patch01 1
+    2300106: Patch01 2
+    2300108: Patch01 3
+    2300110: Patch01 4
+    2300112: Patch01 5
+    2300114: Patch01 6
+    2300116: Patch01 7
+    2300118: Patch01 8
+    2300120: PowerUp
+    2300122: PowerUp 1
+    2300124: PowerUp 2
+    2300126: smdimport
+    2300128: Soldier 1
+    2300130: SoldierBullet
+    2300132: TailRotor
+    2300134: TankBullet
+    2300136: WheelFront
+    2300138: WheelLeft
+    2300140: WheelRight
+    3300000: Barrel
+    3300002: Barrel 1
+    3300004: Barrel 2
+    3300006: Barrel 3
+    3300008: Barrel 4
+    3300010: Barrel 5
+    3300012: Barrel 6
+    3300014: Barrel 7
+    3300016: Body
+    3300018: Body 1
+    3300020: Body 10
+    3300022: Body 2
+    3300024: Body 3
+    3300026: Body 4
+    3300028: Body 5
+    3300030: Body 6
+    3300032: Body 7
+    3300034: Body 8
+    3300036: Body 9
+    3300038: BunkerBullet
+    3300040: Convoy
+    3300042: DoorBottom
+    3300044: DoorTop
+    3300046: Enemy6
+    3300048: Glass
+    3300050: GuidedMissile1
+    3300052: GuidedMissile2
+    3300054: GuidedMissile3
+    3300056: GuidedMissile4
+    3300058: GuidedMissile5
+    3300060: GuidedMissile6
+    3300062: GuidedMissile7
+    3300064: GuidedMissile8
+    3300066: Head
+    3300068: Head 1
+    3300070: Head 10
+    3300072: Head 2
+    3300074: Head 3
+    3300076: Head 4
+    3300078: Head 5
+    3300080: Head 6
+    3300082: Head 7
+    3300084: Head 8
+    3300086: Head 9
+    3300088: Headquarters
+    3300090: HelicopterHomingMissile
+    3300092: HelicopterMissile
+    3300094: Hostage 1
+    3300096: HumveeBullet
+    3300098: HumveeMissile
+    3300100: MainRotor
+    3300102: Patch01
+    3300104: Patch01 1
+    3300106: Patch01 2
+    3300108: Patch01 3
+    3300110: Patch01 4
+    3300112: Patch01 5
+    3300114: Patch01 6
+    3300116: Patch01 7
+    3300118: Patch01 8
+    3300120: PowerUp
+    3300122: PowerUp 1
+    3300124: PowerUp 2
+    3300126: smdimport
+    3300128: Soldier 1
+    3300130: SoldierBullet
+    3300132: TailRotor
+    3300134: TankBullet
+    3300136: WheelFront
+    3300138: WheelLeft
+    3300140: WheelRight
+    4300000: Body
+    4300002: Head
+    4300004: Body
+    4300006: Head
+    4300008: Patch01
+    4300010: Patch01
+    4300012: Body
+    4300014: Head
+    4300016: Body
+    4300018: Head
+    4300020: Barrel
+    4300022: Barrel
+    4300024: Barrel
+    4300026: Barrel
+    4300028: Patch01
+    4300030: Patch01
+    4300032: Patch01
+    4300034: Patch01
+    4300036: Body
+    4300038: DoorBottom
+    4300040: DoorTop
+    4300042: Glass
+    4300044: GuidedMissile1
+    4300046: GuidedMissile2
+    4300048: GuidedMissile3
+    4300050: GuidedMissile4
+    4300052: GuidedMissile5
+    4300054: GuidedMissile6
+    4300056: GuidedMissile7
+    4300058: GuidedMissile8
+    4300060: MainRotor
+    4300062: TailRotor
+    4300064: WheelFront
+    4300066: WheelLeft
+    4300068: WheelRight
+    4300070: Patch01
+    4300072: Patch01
+    4300074: Patch01
+    4300076: Body
+    4300078: Head
+    4300080: Barrel
+    4300082: Barrel
+    4300084: Barrel
+    4300086: Barrel
+    4300088: Convoy
+    4300090: Enemy6
+    4300092: Headquarters
+    4300094: Body
+    4300096: Head
+    4300098: Body
+    4300100: Head
+    4300102: smdimport
+    4300104: Hostage
+    4300106: PowerUp
+    4300108: PowerUp
+    4300110: PowerUp
+    4300112: BunkerBullet
+    4300114: HelicopterHomingMissile
+    4300116: HumveeBullet
+    4300118: SoldierBullet
+    4300120: TankBullet
+    4300122: Body
+    4300124: Head
+    4300126: Body
+    4300128: Head
+    4300130: HelicopterMissile
+    4300132: HumveeMissile
+    4300134: Body
+    4300136: Head
+    4300138: Head
+    4300140: Soldier
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AbramsM1A1
+    second: {fileID: 2100000, guid: a020051ef77b3a64784cc46afff23dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel
+    second: {fileID: 2100000, guid: 9821f2aaf17305645ad00cb59ea4b33c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building04Roof
+    second: {fileID: 2100000, guid: 870d70fa3a01cee4987cdac0e4cdb840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building04Walls
+    second: {fileID: 2100000, guid: cf9d50ab4345e2b42bda753bfe6ddb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BunkerBody
+    second: {fileID: 2100000, guid: 98b59194fbf70fa4a86fecba61f4b997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BunkerHead
+    second: {fileID: 2100000, guid: c87c000a72ee3a145ae0b0e13d75693a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrossMaterial
+    second: {fileID: 2100000, guid: cbc0a43c048b407458e855d9c984f3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 1448934b933f8104c9f221fabd2e88d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HomingMissile
+    second: {fileID: 2100000, guid: 4fd04335091bfe34bb8f1c69671d2bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HumveeBody
+    second: {fileID: 2100000, guid: eaf0ed3c6d1c9aa4e963af61c11f58bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HumveeGlass
+    second: {fileID: 2100000, guid: 130877223b5ddfc44aa1a6e20bc21388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HumveeTire
+    second: {fileID: 2100000, guid: a472fcba2bdcd6242be3787ef2ad592e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4Material
+    second: {fileID: 2100000, guid: 1dc924ab333756c458699b915efb3f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI24
+    second: {fileID: 2100000, guid: 8f23968a8cddfc8459e47b898f328a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Missile
+    second: {fileID: 2100000, guid: 890de236643e0254a8e2d248e336b04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PatchMaterial01
+    second: {fileID: 2100000, guid: e1fb2ab3c4bc18f439438c8a02582a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink
+    second: {fileID: 2100000, guid: 9507059684621eb46bb41822d26ed1fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SamSiteBody
+    second: {fileID: 2100000, guid: 3bab826b60ffd814b86b07ea220272ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SamSiteHead
+    second: {fileID: 2100000, guid: 0775ae2f3828b4e42bad4833015675c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SoldierMaterial
+    second: {fileID: 2100000, guid: d487893b3d7d3e54bbc1cb29cd7d154c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ak47_skin
+    second: {fileID: 2100000, guid: ea5fe57e27548b248958e2b3ec6f2659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head2
+    second: {fileID: 2100000, guid: 6b29cdf9da1aad14ab0444ab76b80a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newsvip
+    second: {fileID: 2100000, guid: 60f5c235b9062b1478a841d4091c7286, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
